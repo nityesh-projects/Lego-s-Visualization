@@ -32,11 +32,10 @@ This dashboard is built to assist users—especially collectors, parents, and LE
 The Power BI report includes multiple pages designed to offer interactive analysis and decision-support tools for LEGO sets. Key dashboard elements include:
 
 - **Category & Subcategory Breakdown**: Analyze LEGO sets by themes, product lines, and categories to explore product diversity.
-- **Set Details Table**: View each set's release year, piece count, price, and recommended age range with dynamic filtering.
 - **Decomposition Tree**: Drill down into metrics for deeper analysis and understand key factors influencing set characteristics.
 - **Image Tooltips**: Hover over set names to view visual previews for better identification.
 - **Interactive Filters**: Filter LEGO sets by price range, age suitability, or other dimensions to support data-driven decision-making.
-- **Reset Button**: Quickly clear all filters and start a fresh analysis.
+- **Clear All Filters**: Quickly clear all filters and start a fresh analysis.
 
 This dashboard is built to help users—whether collectors, parents, or enthusiasts—explore LEGO sets effectively and make insightful purchasing or comparison decisions.
 
@@ -59,8 +58,6 @@ This Power BI dashboard helps answer critical business and consumer-focused ques
 These insights help users make **informed, data-driven decisions** when exploring or purchasing LEGO sets.
 
 ---
-
-## 🛠️ Tools & Technologies
 
 ## 🛠️ Tools & Technologies
 
