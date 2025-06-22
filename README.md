@@ -74,16 +74,6 @@ These insights help users make **informed, data-driven decisions** when explorin
   - Images
   - Tooltip (for set preview on hover)
 ---
-
-## 🧩 How to Use
-
-1. Download the `.pbix` file from this repository.
-2. Open in **Power BI Desktop**.
-3. Explore visuals and use filters/slicers to drill down into the data.
-4. Optionally publish to the Power BI service or share insights with stakeholders.
-
----
-
 ## 🔗 Contact
 
 Created by [Nityesh Sai Panchanavarapu]
